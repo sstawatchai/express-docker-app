@@ -41,7 +41,7 @@ on:
 
 # กำหนด Environment Variables ระดับ Workflow
 env:
-  DOCKER_REPO: iamsamitdev/express-docker-app
+  DOCKER_REPO: sstawatchai/express-docker-app
   DEV_APP_NAME: express-app-dev
   DEV_HOST_PORT: 3001
   PROD_APP_NAME: express-app-prod
